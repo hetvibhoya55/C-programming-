@@ -7,7 +7,7 @@ int main() {
 
     float kg=grams/1000;
     
-    printf("Kilogram=%d",kg);
+    printf("Kilogram=%f",kg);
     
     return 0;
 }
