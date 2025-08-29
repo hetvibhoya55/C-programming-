@@ -3,7 +3,7 @@
 
 int main() {
     int sum;
-    int a=4;
+    int a=5;
     int b=5;
 
     sum=a+b;
